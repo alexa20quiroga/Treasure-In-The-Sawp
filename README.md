@@ -39,5 +39,6 @@ El juego trata sobre dos personajes, que se encuentran como en bosque el cual de
 https://youtu.be/L2wpiI8GEz8 
 
 **Link de GitHub**
-https://github.com/alexa20quiroga/Etapa-1---Programaci-nParaVideoJuegos-ValeryQuiroga.git
+https://github.com/alexa20quiroga/Treasure-In-The-Sawp.git
+
 
